@@ -17,5 +17,5 @@
 - Array.prototype.forEach
 
 <p align="left">
-<img src="./readme-img/01.png">
+<img src="./img/01.png">
 </p>
